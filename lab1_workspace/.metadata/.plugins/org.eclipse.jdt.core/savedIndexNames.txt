@@ -1,0 +1,22 @@
+INDEX VERSION 1.127+F:\Users\Alexander\Documents\Skola\TDDC17\lab1_workspace\.metadata\.plugins\org.eclipse.jdt.core
+3008126564.index
+381957769.index
+1088857609.index
+3141446087.index
+1959361982.index
+4087000579.index
+1048063173.index
+3098510922.index
+374144390.index
+1555071194.index
+615319650.index
+4211767635.index
+2753224034.index
+90418201.index
+2668679280.index
+747512878.index
+3581163120.index
+3720557175.index
+3867853513.index
+2243698028.index
+4140083103.index
